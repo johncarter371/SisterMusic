@@ -35,3 +35,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Always remeber to use good API combo else your account could be deleted.
 <h4> Generate Session via Repl: </h4>
 <p><a href="https://replit.com/@NotReallyShikhar/Yukki-Music-String-Gen"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+  
+<h4>Click the button below to deploy Yukki on Heroku!</h4> 
+<p><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTechShreyash%2FSiestaXMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+  
