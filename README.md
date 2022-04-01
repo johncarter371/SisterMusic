@@ -13,8 +13,8 @@ A Telegram Music+video Bot written in Python using Pyrogram and Py-Tgcalls
   
   # SisterMusic
 A Powerful Telegram Music+Video Bot by which you can stream songs, videos and even live streams in your group calls via various sources. It comes with  user friendly and easy to use yet elegant features.
-## Deployment
-Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/requirements) for Detailed Description and Setup Guide on deploying Bot.
+## Mandatory
+
 
 > Click on buttons to expand!
 > <details>
